@@ -1,4 +1,4 @@
-** Python [variables]. Repte (invertir variables) **
+**Python [variables]. Repte (invertir variables)**
 
 Objetivo: Invertir las variables "llimones" y "tronjes"
 
